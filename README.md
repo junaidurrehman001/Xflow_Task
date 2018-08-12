@@ -1,1 +1,2 @@
-# Xflow_Task_Calculator   Function + / * -
+# Xflow_Task_Calculator;
+Implemented Functions:  + / * -
